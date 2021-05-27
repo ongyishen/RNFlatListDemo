@@ -31,3 +31,13 @@ npm start
 
 ## Toast Component
 [react-native-simple-toast](https://www.npmjs.com/package/react-native-simple-toast)
+
+# (Optional) Enable Yarn Package Management
+```
+npm install -g yarn
+```
+
+# (Optional) Install Expo CLI
+```
+npm install -g expo-cli
+```
